@@ -1,2 +1,2 @@
 # HackerRankTrials
-Personal HackkerRank Trials
+Personal HackerRank Trials
